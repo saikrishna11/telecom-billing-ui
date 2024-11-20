@@ -1,0 +1,17 @@
+.header {
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.header.customers {
+    background-color: #007bff;
+}
+
+.header.bills {
+    background-color: #28a745;
+}
+
+.header.plans {
+    background-color: #dc3545;
+}
