@@ -1,0 +1,10 @@
+.customer-details {
+    padding: 20px;
+}
+
+.customer-details input {
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+}
+

@@ -1,0 +1,13 @@
+.home {
+    padding: 20px;
+    text-align: center;
+}
+
+.home h2 {
+    color: #007bff;
+}
+
+.home p {
+    font-size: 18px;
+    line-height: 1.6;
+}
